@@ -8,6 +8,6 @@
 - Programming Pub-Sub node (Hello World)
 
 ### [Day 1](https://github.com/reachpranjal/ros-workshop/tree/main/day-1)
-- Understanding `roslaunch`
+- Understanding `roslaunch`, `rosnode`, `rostopic`, `rosmsg`
 - `teleop_twist_keyboard`
 - Programming turtlesim
